@@ -1,0 +1,21 @@
+{
+    "menu": {
+      "home": "Accueil",
+      "about": "A Propos"
+    },
+    "home": {
+      "welcome": "Vous souhaitez lancer votre projet ?",
+      "description": "Le développement de solutions logicielles fiables et évolutives pour tout système d'exploitation, navigateur et appareil. Nous réunissons une expertise approfondie de l'industrie et les dernières avancées informatiques pour fournir des solutions et des produits personnalisés qui répondent parfaitement aux besoins et au comportement de leurs utilisateurs.",
+      "learn": "En savoir plus"
+    },
+    "about": {
+        "title": "Une équipe forte",
+        "description": "Fondée en 2000, notre entreprie est un fournisseur de services de conseil en informatique et de développement de logiciels. Ayant commencé comme une petite entreprise de produits d'IA, nous sommes passés aux services informatiques et depuis, nous avons aidé des organisations non informatiques et des sociétés de produits logiciels à améliorer leurs performances commerciales et à gagner rapidement de nouveaux clients.",
+        "expertise": {
+          "title": "Notre expertise",
+          "mobile-dev":"Developpement mobile",
+          "web-dev": "Developpement web",
+          "it": "Consultance IT"
+        }
+    }
+}

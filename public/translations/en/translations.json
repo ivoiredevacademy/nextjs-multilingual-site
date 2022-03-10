@@ -1,0 +1,21 @@
+{
+  "menu": {
+    "home": "Home",
+    "about": "About"
+  },
+  "home": {
+    "welcome": "Do you want to launch your project?",
+    "description": "The development of reliable and scalable software solutions for any operating system, browser and device. We bring together deep industry expertise and the latest IT advancements to deliver customized solutions and products that perfectly match the needs and behavior of their users.",
+    "learn": "Learn more"
+  },
+  "about": {
+    "title": "A strong team",
+    "description": "Founded in 2000, our company is a provider of IT consulting and software development services. Starting as a small AI product company, we transitioned into IT services and since then have helped non-IT organizations and software product companies improve their business performance and quickly win new customers.",
+    "expertise": {
+      "title": "Our expertise",
+      "mobile-dev":"Mobile Development",
+      "web-dev": "Web Development",
+      "it": "IT consulting"
+    }
+  }
+}
