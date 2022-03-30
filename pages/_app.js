@@ -10,7 +10,7 @@ i18next
 .init({
   fallbackLng: 'en',
   backend: {
-    loadPath: '/translations/{{ lng }}/translations.json'
+    loadPath: '/translations/{{lng}}/translations.json'
   }
 })
 

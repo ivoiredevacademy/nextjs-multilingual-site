@@ -3,7 +3,7 @@ import Link from "next/link";
 import { useTranslation } from "react-i18next";
 
 export default function Home() {
-  const { t, i18n } = useTranslation('en', { useSuspense: false });
+  const { t } = useTranslation('en', { useSuspense: false });
 
   return (
     <div className="py-20 flex items-center justify-center">
